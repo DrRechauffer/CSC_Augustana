@@ -1,5 +1,5 @@
 '''
-Name: Chinh Nguyen
+Name: Chinh Xuan Nguyen
 CSC 201
 Lab 6
 
